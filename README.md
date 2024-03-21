@@ -45,6 +45,7 @@
   <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
   <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
   <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+  <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 </div>
 
 </td></tr></table>  
