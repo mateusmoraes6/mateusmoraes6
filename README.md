@@ -23,18 +23,22 @@
   <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### ⚙️ Backend 
+### ⚙️ Backend + Cloud
 <div align="center"> 
   <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+  <img style="margin: 10px" height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 </div>
 
 </td><td valign="top" width="33%">
