@@ -1,7 +1,7 @@
 ### 🖥️ Sobre: <br>
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 - 📚 Estudante de Desenvolvimento Full-Stack.
-- 📊 Analista de Dados - [Google + CIEE](https://www.credly.com/badges/f4d1b1c1-3a9b-4591-aa02-a512914e9758/linked_in?t=srl03f)
+- 📊 Analista de Dados - [Google + Coursera](https://www.credly.com/badges/f4d1b1c1-3a9b-4591-aa02-a512914e9758/linked_in?t=srl03f)
 - 🔸 Em formação na [Oracle ONE](https://www.oracle.com/br/education/oracle-next-education/) 
 - 📌 [// Portifólio](https://portifolio-mateusmoraes.vercel.app/)
   
