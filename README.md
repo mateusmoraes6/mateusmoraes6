@@ -3,7 +3,7 @@
 - 📚 Estudante de Desenvolvimento Full-Stack.
 - 📊 Analista de Dados - [Google + Coursera](https://www.credly.com/badges/f4d1b1c1-3a9b-4591-aa02-a512914e9758/linked_in?t=srl03f)
 - 🔸 Especialização - Backend - Java [Oracle ONE](https://www.oracle.com/br/education/oracle-next-education/) 
-- 📌 [// Portifólio](https://portifolio-v2-self-six.vercel.app/)
+- 📌 [Portifólio](https://portifolio-002.netlify.app/)
   
 <div align="center">  
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=mateusmoraes6&show_icons=true&count_private=true&hide_border=true&title_color=dcd8df&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Moraes github stats" /> 
